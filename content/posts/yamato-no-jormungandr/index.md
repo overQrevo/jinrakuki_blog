@@ -1,7 +1,7 @@
 ---
 title: "大和のヨルムンガンド"
 date: 2019-08-15T16:38:16+09:00
-draft: true
+draft: false
 ---
 
 ## 藁の蛇
