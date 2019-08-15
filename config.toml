@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://jinrakuki.netlify.com/"
+languageCode = "ja-jp"
+title = "秦楽記"
 theme = "m10c"
