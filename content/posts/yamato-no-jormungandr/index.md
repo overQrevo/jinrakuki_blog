@@ -9,53 +9,53 @@ draft: false
 自らの尾を噛んで閉じた円環を作るウロボロス。その最大のものは世界（ミッドガルド＝中つ国）を取り巻くヨルムンガンド。北欧神話の巨大な蛇で、世界の終わり（ラグナロク）のとき、陸に侵攻して津波を起こすとされる。
 そのヨルムンガンドを奈良（大和）で見つけた、という妙な話を。
 
-![ユグドラシルとミッドガルド](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/jormungandr_yugudora.png)
+![ユグドラシルとミッドガルド](jormungandr_yugudora.png)
 
 その前に、奈良と大和を区別しておくと。JRや近鉄の奈良駅がある奈良市は、平城京のあったあたり、大仏の東大寺、鹿の春日神社。本来の大和はその20キロほど南、三輪山の西、桜井市や田原本、飛鳥や橿原、さらに葛城あたりまで広げてみることもできる地域。邪馬台国もたぶんこのあたり、纒向近辺の可能性大。
 
 奈良（というより大和）には藁で作った蛇の祭がそこここに大量分布。いつから伝わるものかよくわからない。室町時代の文献を残すものもあるが、もっと古い。あえて弥生時代、卑弥呼の頃からあったものと仮定してみる。それで説明できることが増えるなら、仮定を支持する傍証にはなるから。
 
-![野神マップ](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/nogamimap.png)
+![野神マップ](nogamimap.png)
 
 円環になる前にまず伸びている蛇を見てみよう。石舞台古墳から南に進むと山道になって山岳渓流が現れる。棚田で知られる稲渕。この渓流に男綱・女綱という、性器を模した蛇が掛けられている。渓流の南北、村境にあたるところに雄雌それぞれの綱が渡される。
 
-![inabuti_map](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/inabuti_map.png)
+![inabuti_map](inabuti_map.png)
 
-![男綱](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/oduna1.jpg)
+![男綱](oduna1.jpg)
 
-![女綱](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/meduna.jpg)
+![女綱](meduna.jpg)
 
 皇極女帝が雨乞をしたことでも知られる渓流。川が蛇体に見立てられている。ふだんは南北の村境に離れ離れの雌雄だが、これが交わることで雨を呼ぶことができるのだろう。書紀では、道教マニアの皇極天皇が仏教に対抗し四方拝をしたことになっているが、蛇と雨の伝承がより古いベースにある。
 
 ウロボロス。始まり（頭）と終わり（尾）が一致して円環をなすことで、対立物の結合、反対の一致を示す錬金術の象徴。実際、錬金術では、ウロボロスとともに、両性具有の王＝后や、太陽と月の結婚といった図像が描かれる。ふだんは両極にあるものが合体することで、特別な力を生じるという、神話のロジック。
 
-![uroboros2](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/uroboros2.jpg)
+![uroboros2](uroboros2.jpg)
 
-![uroboros3](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/uroboros3.jpg)
+![uroboros3](uroboros3.jpg)
 
-![uroboros4](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/uroboros4.jpg)
+![uroboros4](uroboros4.jpg)
 
-![Fuxi_and_Nuwa](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/Fuxi_and_Nuwa.jpg)
+![Fuxi_and_Nuwa](Fuxi_and_Nuwa.jpg)
 
 大和の藁の蛇も雌雄で表され、反対の一致を象徴する。この結びで生まれるのは、稲作のための雨。少子部スガルは雄略天皇と后のまぐわいを目撃したあと、雷を井戸で捉える（霊異記、書紀）。この話も大和の藁蛇のバリエーション。対立物の結合としてのまぐわい、そして雷と井戸という水に関わるもの。天と大地の結婚としての雷と降雨。
 
 大和の藁蛇（野神）祭でもっともでかく強烈なのは、江包・大西の御綱祭。巨大な雌雄の蛇が、結合したままの姿で社の前に置かれている。稲渕の男綱女綱のように離れ離れでなく、日常の時も交わったままの姿。その答えは環濠集落にある。村を取り巻く堀堤が蛇に見立てられる。葦原中つ国を囲むヨルムンガンド。
 
-![otsuna_maguwai](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/otsuna_maguwai.jpg)
+![otsuna_maguwai](otsuna_maguwai.jpg)
 
-![oduna_setumei](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/oduna_setumei.jpg)
+![oduna_setumei](oduna_setumei.jpg)
 
 大和は環濠集落が驚くほど多い。その伝統は弥生時代から中世・近世まで続く。田原本にある唐古・鍵遺跡という弥生遺跡。その復元図は蛇のように水路がのたうっている。石に刻まれたヨルムンガンドのよう。実際、ヨルムンガンド津波ならぬ大洪水に見舞われ村が沈み、また復元されたことが発掘でわかっている。
 
-![yamato_kangoshuraku_map](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/yamato_kangoshuraku_map.png)
+![yamato_kangoshuraku_map](yamato_kangoshuraku_map.png)
 
-![kango_fukugen](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/kango_fukugen.jpg)
+![kango_fukugen](kango_fukugen.jpg)
 
-![jormungandr1](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/jormungandr1.jpg)
+![jormungandr1](jormungandr1.jpg)
 
 稗田阿礼の出身地とされる稗田も、現在まで綺麗に環濠集落が残る地域。村中にある賣太（めた）神社は、猿女田が略されたものといわれ、アメノウズメ＝猿女君＝稗田阿礼というつながりが見える。
 
-![hieda_kangoshuraku](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/hieda_kangoshuraku.png)
+![hieda_kangoshuraku](hieda_kangoshuraku.png)
 
 御綱祭の行われる江包（えっつみ）。いつからこの地名で呼ばれたかわからないが、「江で包む」＝環濠を連想させる名。ツツミは、包とともに堤で、堤が村を包むものだという、語の語源的用法になっている。またツツは蛇の古語。ミヅチ（蛟）、野槌（ノヅチ）、ツチノコ、河童はミズシ、メドチ、ミンヅチ。稲妻はイカヅチ。ヤマタノオロチに娘を差し出すのは、アシナヅチ・テナヅチ。
 
@@ -84,6 +84,6 @@ draft: false
 
 折口信夫はこの神話イメージを、みとのまぐわいから歌垣、御田植祭の花竿、住吉踊りの傘、田楽法師と敷衍していき、盆踊りの円運動に行き着いている。円環の反対の一致によって、男と女、死者と生者が出会う。
 
-![折口信夫「盆踊りと祭屋台と」](../../../../jinraku_ki/jinrakuki_blog/content/posts/jormungandr_in_yamato/折口信夫「盆踊りと祭屋台と」.png)
+![折口信夫「盆踊りと祭屋台と」](折口信夫「盆踊りと祭屋台と」.png)
 
 交尾する藁蛇のお綱さまの祀られる江包・大西。このあたりにおそらく邪馬台国はあった。そして、ここに隣接する地域は観世親子の故郷でもある。観阿弥世阿弥が蛇祭に参加していた可能性は十分ある。卑弥呼から観世をつなぐ何かがある。舞は回ること、能は死者の語らい。対立物、一致し得ないものが、この地では結びあう。
