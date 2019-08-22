@@ -2,19 +2,48 @@ baseURL = "https://jinrakuki.netlify.com/"
 languageCode = "ja-jp"
 title = "秦楽記"
 theme = "m10c"
+paginate = 5
 
 [params]
-author = "overQ"
-description = "秦氏とか神話ことなどを少々"
-avatar = "/avatar.jpg"
+  author = "overQ"
+  description = "秦氏とか神話ことなどを少々"
+  avatar = "/avatar.jpg"
+  body_classes = "serif"
 
-[[params.social]]
-name = "github"
-url = "https://github.com/overQrevo/jinrakuki_blog"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/overQrevo/jinrakuki_blog"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/overQrevo"
 
-[params.style]
-darkestColor = "#d35050"
-darkColor = "#212121"
-lightColor = "#f5e3e0"
-lightestColor = "#f5f5f5"
-primaryColor = "#fff"
+  [params.style]
+    darkestColor = "#d35050"
+    darkColor = "#212121"
+    lightColor = "#f5e3e0"
+    lightestColor = "#f5f5f5"
+    primaryColor = "#fff"
+    
+# Brown theme
+  #[params.style]
+  #  darkestColor = "#463625"
+  #  darkColor = "#2a3738"
+  #  primaryColor = "#eeee6a"
+  #  lightColor = "#96a879"
+  #  lightestColor = "#ffffff"
+
+  # Green theme
+  #[params.style]
+  #  darkestColor = "#315659"
+  #  darkColor = "#253031"
+  #  primaryColor = "#dad865"
+  #  lightColor = "#96a879"
+  #  lightestColor = "#fff"
+
+  # Red and black theme
+  #[params.style]
+  #  darkestColor = "#d35050"
+  #  darkColor = "#212121"
+  #  primaryColor = "#ffffff"
+  #  lightColor = "#a2a2a2"
+  #  lightestColor = "#d3d3d3"
