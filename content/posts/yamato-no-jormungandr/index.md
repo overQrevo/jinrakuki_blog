@@ -20,7 +20,8 @@ isCJKLanguage: true
 
 円環になる前にまず伸びている蛇を見てみよう。石舞台古墳から南に進むと山道になって山岳渓流が現れる。棚田で知られる稲渕。この渓流に男綱・女綱という、性器を模した蛇が掛けられている。渓流の南北、村境にあたるところに雄雌それぞれの綱が渡される。
 
-<img src="inabuti_map.png" width=250><img src="oduna1.jpg" width=180><img src="meduna.jpg" width=250>
+<img src="inabuti_map.png" width="30%">
+<div class="ovq_flex"><img class="ovq_img_left" src="oduna1.jpg" width=180><img class="ovq_img_right" src="meduna.jpg" width=250></div>
 
 皇極女帝が雨乞をしたことでも知られる渓流。川が蛇体に見立てられている。ふだんは南北の村境に離れ離れの雌雄だが、これが交わることで雨を呼ぶことができるのだろう。書紀では、道教マニアの皇極天皇が仏教に対抗し四方拝をしたことになっているが、蛇と雨の伝承がより古いベースにある。
 
