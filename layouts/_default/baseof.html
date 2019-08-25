@@ -29,7 +29,7 @@
   {{ if eq .RelPermalink "/" }}
   <meta property="og:image" content="{{ .Site.BaseURL }}img/mwlogoicon.png">
   {{ else }}
-  <meta property="og:image" content="{{ RelPermalink }}{{ .Params.eyecatch }}">
+  <meta property="og:image" content="{{ if eq .RelPermalink "/" }}{{ .Params.eyecatch }}">
   {{ end }}
   <!-- Twitter Card Summary with large image -->
   <meta name="twitter:card" content="summary_large_image" /></meta>
@@ -41,7 +41,7 @@
   {{ if eq .RelPermalink "/" }}
   <meta name="twitter:image" content="{{ .Site.BaseURL }}img/mwlogoicon.png"></meta>
   {{ else }}
-  <meta name="twitter:image" content="{{ .RelPermalink }}{{ .Params.eyecatch }}"></meta>
+  <meta name="twitter:image" content="{{ if eq .RelPermalink "/" }}{{ .Params.eyecatch }}"></meta>
   {{ end }}
 
   </head>
