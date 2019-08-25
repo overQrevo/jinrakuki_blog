@@ -3,8 +3,20 @@ body {
     font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
     -webkit-font-smoothing: antialiased;
     letter-spacing: calc(1px - .04em);
-    font-feature-settings: "palt" 1;
+    font-feature-settings: "palt";
 }
+
+.ovq_summary {
+    margin-left: 2em;
+    font-size: 90%;
+}
+.ovq_thumbnail img {
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
 img {
     margin: 1% 5%;
     width: 90%;
@@ -14,11 +26,11 @@ img {
 .ovq_flex {
     display: flex;
 }
-.ovq_img_left {
+.ovq_left {
     width: 40%;
     float: left;
 }
-.ovq_img_right {
+.ovq_right {
     width: 40%;
     float: right;
 }
