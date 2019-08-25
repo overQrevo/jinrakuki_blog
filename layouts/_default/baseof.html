@@ -29,7 +29,7 @@
   {{ if eq .RelPermalink "/" }}
   <meta property="og:image" content="{{ .Site.BaseURL }}img/mwlogoicon.png">
   {{ else }}
-  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.eyecatch }}">
+  <meta property="og:image" content="{{ .Permalink }}{{ .Params.eyecatch }}">
   {{ end }}
   <!-- Twitter Card Summary with large image -->
   <meta name="twitter:card" content="summary_large_image" /></meta>
