@@ -38,11 +38,7 @@
   <meta name="twitter:title" content="{{ if eq .RelPermalink "/" }}<title>{{ .Site.Title }}</title>{{ else }}<title>{{ .Title }}&nbsp;-&nbsp;{{ .Site.Title }}</title>{{ end }}"></meta>
   <meta name="twitter:url" content="{{ .Permalink }}"></meta>
   <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"></meta>
-  {{ if eq .RelPermalink "/" }}
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}img/mwlogoicon.png"></meta>
-  {{ else }}
   <meta name="twitter:image" content="{{ if eq .RelPermalink "/" }}{{ .Params.eyecatch }}"></meta>
-  {{ end }}
 
   </head>
   <body>
