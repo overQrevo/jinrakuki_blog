@@ -3,10 +3,11 @@ title: "大和のヨルムンガンド"
 date: 2019-08-15T16:38:16+09:00
 draft: false
 isCJKLanguage: true
-summary: "自らの尾を噛んで閉じた円環をなすウロボロス。
+description: "自らの尾を噛んで閉じた円環をなすウロボロス。
 最大のウロボロスは、世界（ミッドガルド＝中つ国）を取り巻くヨルムンガンドだろう。北欧神話の巨大な蛇で、世界の終わり（ラグナロク）のとき、陸に侵攻し津波を起こす、と語られる。
 そのヨルムンガンドを奈良（大和）で見つけた、という妙な話をひとつ。"
-eyecatch: "jormungandr_yugudora.png"
+images: 
+  - "posts/yamato-no-jormungandr/jormungandr_yugudora.png"
 ---
 
 {{< figure src="jormungandr_yugudora.png" >}}

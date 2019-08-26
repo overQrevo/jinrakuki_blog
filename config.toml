@@ -9,7 +9,7 @@ summaryLength = 150
   author = "overQ"
   description = "秦氏とか神話のことなどを少々"
   avatar = "/ovq.jpg"
-  
+  images = ["/ovq.jpg"]
   customCSS = ["/css/ovq_custom.css"]
 
   [[params.social]]
