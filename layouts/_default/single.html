@@ -5,11 +5,11 @@
       <div class="post-meta">
         <div>
           {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
-          {{ .PublishDate.Format "Jan 2, 2006" }}
+          {{ .PublishDate.Format "2006年01月02日" }}
         </div>
         <div>
           {{ partial "icon.html" (dict "ctx" $ "name" "clock") }}
-          {{ .ReadingTime }} 分で読了
+          {{ .ReadingTime }} 分で読める
         </div>
         {{- with .Params.tags -}}
         <div>

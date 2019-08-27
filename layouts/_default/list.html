@@ -5,13 +5,19 @@
       {{ range $index, $element := .Paginator.Pages }}
         <li class="posts-list-item">
           <div class="ovq_thumbnail">
-            <a class="posts-list-item-title" href="{{ .Permalink }}"><img src="{{ index (.Params.images) 0 | absURL }}"></a>
+            <a class="posts-list-item-title" href="{{ .Permalink }}">
+              {{ if isset .Params "images" }}
+                <img src="{{ index (.Params.images) 0 | absURL }}">
+              {{ else }}
+                <img src="{{ .Site.Params.avatar | default "avatar.jpg" | relURL }}">
+              {{ end }}
+            </a>
           </div>
           <a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a>        
           <p class="ovq_summary">{{ .Params.description }}</p>
           <span class="posts-list-item-description">
-            {{ partial "icon.html" (dict "ctx" $ "name" "clock") }} {{ .ReadingTime }} min read -
-            {{ .PublishDate.Format "Jan 2, 2006" }}
+            {{ partial "icon.html" (dict "ctx" $ "name" "clock") }} {{ .ReadingTime }} 分で読める -
+            {{ .PublishDate.Format "2006年01月02日" }}
           </span>
         </li>
       {{ end }}

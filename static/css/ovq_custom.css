@@ -34,3 +34,18 @@ img {
     width: 40%;
     float: right;
 }
+
+table {
+    background: #444;
+    border-collapse: collapse;
+    border: 1px solid #aaa;
+}
+th {
+    background: #383838;
+    border: 1px solid #aaa;
+    
+}
+td {
+    border-collapse: collase;
+    border: 1px solid #aaa;
+}
