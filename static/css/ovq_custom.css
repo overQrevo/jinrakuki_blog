@@ -1,13 +1,15 @@
 body {
     font-size: medium;
     font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+    color: #fff;
     -webkit-font-smoothing: antialiased;
     letter-spacing: calc(1px - .04em);
     font-feature-settings: "palt";
 }
 @media screen and (max-width: 600px) {
     body {
-        font-size: 80%;
+        font-size: 85%;
+        color: #fff;
     }
 }
 
