@@ -19,15 +19,14 @@ main.app-container {
 }
 @media screen and (max-width: 600px) {
 	#ovq_big_container {
-		display: block;
+		display: flex;
+		flex-direction: column;
     }
     header.app-header {
-        position: static;
-        margin-top: -200px;
+       margin-top: -200px;
     }
     main.app-container {
-        position: relative;
-        flex: none;
+        flex: 1;
     }
 }
 

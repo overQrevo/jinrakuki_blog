@@ -4,9 +4,9 @@ date: {{ .Date }}
 draft: true
 isCJKLanguage: true
 description: ""
-images: - ""
-categories: - ""
-tags: - ""
+images: 
+categories: 
+tags: 
 ---
 
 <img id="ovq_bgimage" src="background.png">
