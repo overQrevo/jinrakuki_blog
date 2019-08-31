@@ -6,6 +6,31 @@ body {
     font-feature-settings: "palt";
 }
 
+#ovq_big_container {
+	display: flex;
+}
+header.app-header {
+	position: relative;
+}
+main.app-container {
+	position: relative;
+	margin-left: 0;
+	flex: 1;
+}
+@media screen and (max-width: 600px) {
+	#ovq_big_container {
+		display: block;
+    }
+    header.app-header {
+        position: static;
+        margin-top: -200px;
+    }
+    main.app-container {
+        position: relative;
+        flex: none;
+    }
+}
+
 @media screen and (max-width: 600px) {
 .app-header-avatar {
     position: relative;
@@ -29,8 +54,11 @@ body {
 .app-container article h1 {
     font-size: 2.3em;
     text-align: center;
-    padding-bottom: 40px;
+    padding-bottom: 25px;
     border-bottom: 1px solid #fff;
+}
+@media screen and (max-width: 600px) {
+    .list-page-article h1 { display: none; }
 }
 li.posts-list-item {
     padding: 2em 0;
@@ -103,9 +131,6 @@ img {
     height: auto;
     object-fit: cover;
 }
-.ovq_flex {
-    display: flex;
-}
 .ovq_left {
     width: 40%;
     float: left;
@@ -113,6 +138,16 @@ img {
 .ovq_right {
     width: 40%;
     float: right;
+}
+.ovq_flex {
+    display: inline-flex;
+}
+.ovq_flex_left {
+    width: 40%;
+}
+.ovq_flex_right {
+    flex: 1;
+    max-width: 50%;
 }
 
 table {

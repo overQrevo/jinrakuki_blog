@@ -68,7 +68,8 @@ images:
 田原本に唐古・鍵遺跡という弥生遺跡がある。その復元図は実際、蛇のように環濠や水路がのたうっている。ヨーロッパの石に刻まれたヨルムンガンドを並べてみる。  
 唐古・鍵遺跡はまた、ヨルムンガンド津波ならぬ大洪水に見舞われ村が沈み、その後復元されたことが発掘でわかっている。  
 
-<div class="ovq_flex"><img src="kango_fukugen.jpg" class="ovq_left"><img src="jormungandr1.jpg"></div>
+<div class="ovq_flex"><img src="kango_fukugen.jpg" class="ovq_flex_left"><img src="jormungandr1.jpg" class="ovq_flex_right"></div>
+
 ## 環濠の論理
 
 よく保存されている環濠集落跡として、稗田阿礼の出身地とされる稗田がある。村中にある賣太（めた）神社は、猿女田（さるめた）が略されたものといわれ、アメノウズメ＝猿女君＝稗田阿礼というつながりが見える。  
