@@ -5,6 +5,11 @@ body {
     letter-spacing: calc(1px - .04em);
     font-feature-settings: "palt";
 }
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 80%;
+    }
+}
 
 #ovq_big_container {
 	display: flex;
@@ -127,6 +132,11 @@ header.post-header h1 {
 .post-content {
     font-size: 17px;
     line-height: 1.8;
+}
+@media screen and (max-width: 600px) {
+    .post-content {
+        font-size: 1em;
+    }
 }
 
 img {
