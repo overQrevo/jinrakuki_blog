@@ -8,7 +8,7 @@ body {
 }
 @media screen and (max-width: 600px) {
     body {
-        font-size: 0.9rem;
+        font-size: 0.85rem;
         color: #fff;
     }
 }
@@ -34,6 +34,7 @@ main.app-container {
     }
     main.app-container {
         flex: 1;
+        padding: 1.3rem;
     }
 }
 
@@ -133,11 +134,6 @@ header.post-header h1 {
 .post-content {
     line-height: 1.8;
 }
-@media screen and (max-width: 600px) {
-    .post-content {
-        font-size: 1rem;
-    }
-}
 
 img {
     margin: 1% 5%;
@@ -184,7 +180,6 @@ td {
 blockquote {
     color: #dadada;
     background: #1a1a1a;
-	font-style: italic;
 	margin: 0 0 2rem;
 	padding: 2rem;
 	position: relative;
