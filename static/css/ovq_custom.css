@@ -69,6 +69,7 @@ main.app-container {
 }
 li.posts-list-item {
     padding: 2rem 0;
+    display: flow-root;
 }
 li>.posts-list-item-title {
     font-size: 1.6rem;
