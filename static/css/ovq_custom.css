@@ -8,7 +8,7 @@ body {
 }
 @media screen and (max-width: 600px) {
     body {
-        font-size: 0.85rem;
+        font-size: 90%;
         color: #fff;
     }
 }
@@ -34,7 +34,7 @@ main.app-container {
     }
     main.app-container {
         flex: 1;
-        padding: 1.3rem;
+        padding: 1rem;
     }
 }
 
@@ -180,8 +180,8 @@ td {
 blockquote {
     color: #dadada;
     background: #1a1a1a;
-	margin: 0 0 2rem;
-	padding: 2rem;
+	margin: 0 0 1.5rem;
+	padding: 1.5rem;
 	position: relative;
 }
 blockquote:before {
