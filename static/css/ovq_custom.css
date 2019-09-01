@@ -8,7 +8,7 @@ body {
 }
 @media screen and (max-width: 600px) {
     body {
-        font-size: 85%;
+        font-size: 0.9rem;
         color: #fff;
     }
 }
@@ -58,7 +58,7 @@ main.app-container {
 }
 
 .app-container article h1 {
-    font-size: 2.3em;
+    font-size: 2rem;
     text-align: center;
     padding-bottom: 25px;
     border-bottom: 1px solid #fff;
@@ -67,13 +67,13 @@ main.app-container {
     .list-page-article h1 { display: none; }
 }
 li.posts-list-item {
-    padding: 2em 0;
+    padding: 2rem 0;
 }
 li>.posts-list-item-title {
-    font-size: 1.6em;
+    font-size: 1.6rem;
 }
 .ovq_summary {
-    margin-left: 2em;
+    margin-left: 2rem;
     font-size: 90%;
 }
 .ovq_thumbnail img {
@@ -99,7 +99,6 @@ header.post-header {
     height: 250px;
     padding: 5px 50px;
     color: #fff;
-    font-size: 1em;
     text-shadow: 0 0 8px #000;
 }
 header.post-header h1 {
@@ -109,14 +108,14 @@ header.post-header h1 {
     position: relative;
     z-index: 2;
     color: #fff;
-    font-size: 2.2em;
+    font-size: 2rem;
     font-weight: 700;
-    margin: 0 0 0 -0.5em;
+    margin: 0 0 0 -0.5rem;
     text-shadow: 0 0 8px #000;
 }
 @media screen and (max-width: 600px) {
     header.post-header h1 {
-        font-size: 1.5em;
+        font-size: 1.5rem;
     }
 }
 #ovq_bgimage {
@@ -132,12 +131,11 @@ header.post-header h1 {
 }
 
 .post-content {
-    font-size: 17px;
     line-height: 1.8;
 }
 @media screen and (max-width: 600px) {
     .post-content {
-        font-size: 1em;
+        font-size: 1rem;
     }
 }
 
@@ -187,17 +185,17 @@ blockquote {
     color: #dadada;
     background: #1a1a1a;
 	font-style: italic;
-	margin: 0 0 2em;
-	padding: 2em;
+	margin: 0 0 2rem;
+	padding: 2rem;
 	position: relative;
 }
 blockquote:before {
 	color: #efefef;
 	content: "\201C";
 	font-family: Georgia, serif;
-	font-size: 84px;
-	left: 5px;
+    font-size: 84px;
+    top: 0.5rem;
+	left: 0.5rem;
 	line-height: 1;
 	position: absolute;
-	top: 5px;
 }
