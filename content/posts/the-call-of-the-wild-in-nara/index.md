@@ -4,6 +4,11 @@ date: 2019-07-12T18:52:36+09:00
 draft: false
 isCJKLanguage: true
 description: "法隆寺に行くつもりだった奈良旅行。しかし、いつの間にか、いつものように、魔界へ迷いこむことに。そしてついに、雌雄の巨大な神蛇が交尾する現場を目撃してしまうのであった。"
+categories:
+  - "民俗学"
+tags:
+  - "蛇"
+  - "奈良"
 images: 
    - "posts/the-call-of-the-wild-in-nara/background.png"
 ---

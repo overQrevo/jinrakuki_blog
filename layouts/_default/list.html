@@ -13,12 +13,29 @@
               {{ end }}
             </a>
           </div>
-          <a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a>        
-          <p class="ovq_summary">{{ .Params.description }}</p>
-          <span class="posts-list-item-description">
-            {{ partial "icon.html" (dict "ctx" $ "name" "clock") }} {{ .ReadingTime }} 分で読める -
-            {{ .PublishDate.Format "2006年01月02日" }}
-          </span>
+          <div>
+            <nav class="ovq_categories">
+              {{ with .Params.categories }}<div>{{ range . }} <a href="/categories/{{ . }}/">{{ . }}</a>{{ end }}</div>{{ end }}
+            </nav>
+              <a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a>        
+            <p class="ovq_summary">{{ .Params.description }}</p>
+            <nav class="ovq_tags">
+                {{- with .Params.tags -}}
+                <div>
+                  {{ partial "icon.html" (dict "ctx" $ "name" "tag") }}
+                  {{ range . -}}
+                    {{- with $.Site.GetPage (printf "/%s/%s" "tags" . ) -}}
+                      <a class="tag" href="{{ .Permalink }}">{{ .Title }}</a>
+                    {{- end -}}
+                  {{- end -}}
+                </div>
+                {{- end -}}
+            </nav>
+            <span class="posts-list-item-description">
+              {{ partial "icon.html" (dict "ctx" $ "name" "clock") }} {{ .ReadingTime }} 分で読める -
+              {{ .PublishDate.Format "2006年01月02日" }}
+            </span>
+          </div>
         </li>
       {{ end }}
     </ul>

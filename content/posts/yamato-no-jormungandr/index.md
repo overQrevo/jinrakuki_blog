@@ -6,6 +6,11 @@ isCJKLanguage: true
 description: "自らの尾を噛んで閉じた円環をなすウロボロス。
 最大のウロボロスは、世界（ミッドガルド＝中つ国）を取り巻くヨルムンガンドだろう。北欧神話の巨大な蛇で、世界の終わり（ラグナロク）のとき、陸に侵攻し津波を起こす、と語られる。
 そのヨルムンガンドを奈良（大和）で見つけた、という妙な話をひとつ。"
+categories:
+  - "神話"
+tags:
+  - "奈良"
+  - "蛇"
 images: 
   - "posts/yamato-no-jormungandr/background.png"
 ---

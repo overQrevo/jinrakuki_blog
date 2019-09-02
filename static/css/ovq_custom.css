@@ -71,18 +71,35 @@ li.posts-list-item {
     padding: 2rem 0;
     display: flow-root;
 }
-li>.posts-list-item-title {
+.ovq_categories a {
+	color: #aaa;
+	font-size: 0.9em;
+}
+.posts-list-item-title {
     font-size: 1.6rem;
 }
 .ovq_summary {
     margin-left: 2rem;
     font-size: 90%;
 }
+.ovq_tags {
+	text-align: right;
+	color: #aaa;
+	font-size: 0.8em;
+}
+.ovq_tags a {
+	color: #aaa;
+}
+.posts-list-item-description {
+	text-align: right;
+	color: #aaa
+}
 .ovq_thumbnail img {
     float: left;
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    border: 7px solid #fff;
 }
 
 header {
@@ -132,6 +149,13 @@ header.post-header h1 {
     object-fit: cover;
 }
 
+.ovq_single_post_categories {
+	font-size: 0.9em;
+	margin-left: -0.5em;
+	padding: 1px;
+	background-color: rgba(255, 255, 255, 0.1);
+	display: inline-block;
+}
 .post-content {
     line-height: 1.8;
 }

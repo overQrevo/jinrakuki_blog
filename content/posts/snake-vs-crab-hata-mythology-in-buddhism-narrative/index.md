@@ -4,6 +4,11 @@ date: 2017-04-01T15:41:44+09:00
 draft: false
 isCJKLanguage: true
 description: "京都府木津川市の蟹満寺の伝わる「蟹の恩返し」。この説話もまた、秦に関わる神話。秦氏の故郷である奈良・蛇穴の野口神社の役行者にまつわる説話や、秦氏の築いた茨田堤に近い馬甘を舞台にした今昔物語集「蛇に嫁ぎし女を医師治せる話」をめぐり、秦神話のプロトタイプを探っていく。"
+categories:
+  - "神話"
+tags:
+  - "秦氏"
+  - "蛇"
 images: 
   - "posts/snake-vs-crab-hata-mythology-in-buddhism-narrative/background.png"
 ---

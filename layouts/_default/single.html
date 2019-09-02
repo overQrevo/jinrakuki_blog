@@ -1,6 +1,9 @@
 {{ define "main" }}
   <article class="post">
     <header class="post-header">
+      <div class="ovq_single_post_categories">
+          {{ with .Params.categories }}<div>{{ range . }} <a href="/categories/{{ . }}/">{{ . }}</a>{{ end }}</div>{{ end }}
+      </div>
       <h1 class ="post-title">{{ .Title }}</h1>
       <div class="post-meta">
         <div>
