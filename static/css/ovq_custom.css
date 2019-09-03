@@ -8,7 +8,7 @@ body {
 }
 @media screen and (max-width: 600px) {
     body {
-        font-size: 90%;
+        font-size: 100%;
         color: #fff;
     }
 }
@@ -71,9 +71,12 @@ li.posts-list-item {
     padding: 2rem 0;
     display: flow-root;
 }
+.ovq_categories {
+    text-align: left;
+}
 .ovq_categories a {
 	color: #aaa;
-	font-size: 0.9em;
+	font-size: 0.9rem;
 }
 .posts-list-item-title {
     font-size: 1.6rem;
@@ -85,7 +88,7 @@ li.posts-list-item {
 .ovq_tags {
 	text-align: right;
 	color: #aaa;
-	font-size: 0.8em;
+	font-size: 0.8rem;
 }
 .ovq_tags a {
 	color: #aaa;
@@ -150,8 +153,8 @@ header.post-header h1 {
 }
 
 .ovq_single_post_categories {
-	font-size: 0.9em;
-	margin-left: -0.5em;
+	font-size: 0.9rem;
+	margin-left: -0.5rem;
 	padding: 1px;
 	background-color: rgba(255, 255, 255, 0.1);
 	display: inline-block;
