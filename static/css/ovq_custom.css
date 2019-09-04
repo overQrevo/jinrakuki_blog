@@ -48,6 +48,12 @@ main.app-container {
 }
 }
 
+.ovq_contact {
+    display: inline;
+}
+#icon-envelop {
+    fill: #fff;
+}
 .ovq_twitter {
     margin: 1em auto;
 }

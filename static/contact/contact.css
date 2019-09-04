@@ -1,0 +1,52 @@
+    body {
+      background: #212121;
+      color: #fff;
+    }
+    h1 {
+      text-align: center;
+        margin: 2em;
+    }
+    form {
+      display: block;
+      margin: 5em;
+    }
+    label {
+      display: block;
+      margin: 1.5em 0 1em 0;
+    }
+    input {
+      display: block;
+      margin: 1em 0 1.5em 2em;
+      width: 20em;
+    }
+    textarea {
+      display: block;
+      margin: 1em 0 1.5em 2em;
+      width: 35em;
+      height: 15em;
+    }
+    button {
+      margin: 2em;
+      width: 10em;
+    }
+    .return_home {
+      font-size: 1.5em;
+      margin: 2em;
+    }
+    .return_home a {
+      color: #fff;
+    }
+
+    @media screen and (max-width: 600px) {
+        body {
+            font-size: 2rem;
+        }
+        input {
+            width: 20rem;
+            height: 2.5rem;
+        }
+        button {
+            height: 2.5rem;
+            font-size: 1.5rem;
+        }
+    }
