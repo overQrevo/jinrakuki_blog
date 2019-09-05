@@ -22,7 +22,8 @@ header.app-header {
 main.app-container {
 	position: relative;
 	margin-left: 0;
-	flex: 1;
+    flex: 1;
+    background-image: url(karakusa.png);
 }
 @media screen and (max-width: 600px) {
 	#ovq_big_container {
