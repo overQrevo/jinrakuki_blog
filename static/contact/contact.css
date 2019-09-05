@@ -1,52 +1,65 @@
-    body {
-      background: #212121;
-      color: #fff;
-    }
-    h1 {
-      text-align: center;
-        margin: 2em;
-    }
-    form {
-      display: block;
-      margin: 5em;
-    }
-    label {
-      display: block;
-      margin: 1.5em 0 1em 0;
-    }
-    input {
-      display: block;
-      margin: 1em 0 1.5em 2em;
-      width: 20em;
-    }
-    textarea {
-      display: block;
-      margin: 1em 0 1.5em 2em;
-      width: 35em;
-      height: 15em;
-    }
-    button {
-      margin: 2em;
-      width: 10em;
-    }
-    .return_home {
-      font-size: 1.5em;
-      margin: 2em;
-    }
-    .return_home a {
-      color: #fff;
-    }
+body {
+  background: #212121;
+  color: #fff;
+}
 
-    @media screen and (max-width: 600px) {
-        body {
-            font-size: 2rem;
-        }
-        input {
-            width: 20rem;
-            height: 2.5rem;
-        }
-        button {
-            height: 2.5rem;
-            font-size: 1.5rem;
-        }
-    }
+h1 {
+  text-align: center;
+  margin: 0 3rem;
+  padding: 2em 0;
+  border-bottom: 1px dotted #fff;
+}
+
+form {
+  display: block;
+  margin: 5em;
+}
+
+label {
+  display: block;
+  margin: 1.5em 0 1em 0;
+}
+
+input {
+  display: block;
+  width: 12rem;
+  margin: 1rem;
+}
+
+textarea {
+  display: block;
+  margin: 1rem;
+  width: 25rem;
+  height: 12rem;
+  line-height: 1.2;
+}
+
+button {
+  margin: 1rem 0;
+  padding: 1px;
+}
+
+.return_home {
+  font-size: 1.5em;
+  margin: 1.5em;
+}
+
+.return_home a {
+  color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    text-align: center;
+  }
+  label {
+    margin: 0;
+  }
+  input {
+    width: 10rem;
+  }
+  textarea {
+    width: 12rem;
+    height: 6rem;
+  }
+}
