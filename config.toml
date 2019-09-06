@@ -4,6 +4,7 @@ title = "秦楽記"
 theme = "m10c"
 paginate = 5
 summaryLength = 150
+googleAnalytics = "UA-147219793-1"
 
 [params]
   author = "overQ"
