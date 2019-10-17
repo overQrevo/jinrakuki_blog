@@ -168,6 +168,9 @@ header.post-header h1 {
 .post-content {
     line-height: 1.8;
 }
+.post-content a {
+	border-bottom: dotted 1px grey;
+}
 
 img {
     margin: 1% 5%;
