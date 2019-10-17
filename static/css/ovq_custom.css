@@ -17,7 +17,9 @@ body {
 	display: flex;
 }
 header.app-header {
-	position: relative;
+    position: relative;
+    border-right: 8px solid #fff;
+    background: linear-gradient(0deg, #a12a3d, #51151f);
 }
 main.app-container {
 	position: relative;
@@ -114,9 +116,6 @@ li.posts-list-item {
 
 header {
     z-index: 10;
-}
-header.app-header {
-    border-right: 8px solid #fff;
 }
 @media screen and (max-width: 600px) {
     header.app-header { border: 0; }
