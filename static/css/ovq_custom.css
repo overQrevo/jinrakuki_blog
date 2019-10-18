@@ -63,9 +63,6 @@ main.app-container {
 @media screen and (max-width: 600px) {
     .ovq_twitter { display: none; }
 }
-.twitter-timeline {
-    
-}
 
 .app-container article h1 {
     font-size: 2rem;
@@ -169,7 +166,7 @@ header.post-header h1 {
     line-height: 1.8;
 }
 .post-content a {
-	border-bottom: dotted 1px grey;
+	text-decoration: underline dotted grey;
 }
 
 img {
