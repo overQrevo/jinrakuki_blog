@@ -65,3 +65,6 @@ images:
 > いかに早乙女賀茂の神山に花の咲いた見るか。  
 >げにきつと見たれば黄金の花も咲いたり。  
 > おめでたや、めでたや。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMDQ1ODY0MzhdfQ==
+-->
