@@ -10,7 +10,6 @@ categories:
   - "神話・伝説"
 tags:
   - "河童"
-eyecatch = "posts/kappa_pulling_a_horse_and_the_irrigation/background.png"
 ---
 
 <img id="ovq_bgimage" src="background.png">
@@ -81,7 +80,9 @@ eyecatch = "posts/kappa_pulling_a_horse_and_the_irrigation/background.png"
 古代の東アジアの繁栄はこの技術がもたらしたのではないかと思えるような、すばらしい水利灌漑の手法。  
 複数の天才的なアイデアが組み合わされていて、技術の蓄積は都江堰よりももっと遡ることができるにちがいない。
 
-<div class="ovq_flex_right"><a href="image563.jpg"><img src="image563.jpg"></a></div>
+<div class="ovq_flex_left"><a href="image563.jpg"><img src="image563.jpg"></a></div>
+<div class="ovq_flex_right"><a href="masa.jpg"><img src="masa.jpg"></a></div>
+
 分流させるやり方も、現在のサイクロン式掃除機のような方法で、石や砂利を取り除いて用水にあてるなど、驚異的なアイデア満載なのだが、今回注目すべきなのは「榪槎」。  
 木偏に馬。三本の木を組み合わせてテトラポッド状にし、その枠内に篭に詰めた石（蛇篭）を固定して、急流に対抗できる堤防を築く。  
 中国では馬だが、日本では牛とか牛枠と呼ばれる。甲斐のあたりでは、なぜか武田信玄公が発明したことになっていたりもする（これにはかなり深い意味がある）。
