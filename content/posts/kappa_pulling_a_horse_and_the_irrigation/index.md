@@ -10,6 +10,7 @@ categories:
   - "神話・伝説"
 tags:
   - "河童"
+eyecatch = "posts/kappa_pulling_a_horse_and_the_irrigation/background.png"
 ---
 
 <img id="ovq_bgimage" src="background.png">
