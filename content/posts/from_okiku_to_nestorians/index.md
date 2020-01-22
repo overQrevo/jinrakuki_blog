@@ -2,7 +2,7 @@
 title: "お菊井戸を掘り下げてネストリウス派に至る"
 date: 2016-07-16T15:45:07+09:00
 draft: true
-isCJKLanguage: true
+isCJKLanguage: false
 description: "有名な姫路城のお菊井戸。実は播州が発祥の地ではない。松平氏が姫路藩主として転封されてきた時、家来に小幡修理がいた。小幡氏は他地域でもお菊井戸伝説を振りまいている。上州の氏族で、地元にも当然お菊井戸伝承がある。しかし、それにとどまらない。多胡碑、羊大夫、羽の生えた足を持つ飛脚、そしてネストリウス派へと導かれていく。"
 images:
   - "posts/from_okiku_to_nestorians/background.png" 
@@ -47,7 +47,6 @@ tags:
 
 <div class="ovq_flex_left"><a href="Monument_of_Tago_Tagohi-225x300.jpg"><img src="Monument_of_Tago_Tagohi-225x300.jpg"></a></div>
 <div class="ovq_flex_right"><a href="tagohi.jpg"><img src="tagohi.jpg"></a></div>
-
 この地は銅の産地で、渡来系の人々が採掘に関わってきた。
 平城京遷都と合わせるように、良質な和銅が見つかり、年号を和銅と改め、和同開珎が鋳造されたのは、日本史の教科書にも出てくる。その際、多胡郡を新たに作り、その地を羊に賜われた。その記念が多胡碑である。小幡氏はその末裔。
 
