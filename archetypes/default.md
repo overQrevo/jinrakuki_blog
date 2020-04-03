@@ -5,7 +5,7 @@ draft: true
 isCJKLanguage: true
 description: 
 images:
-  - 
+  - "{{.Dir}}background.png"
 categories:
   - 
 tags:
