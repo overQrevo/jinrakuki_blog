@@ -8,7 +8,7 @@ googleAnalytics = "UA-147219793-1"
 
 [params]
   author = "overQ"
-  description = "秦氏とか神話のことなどを少々"
+  description = "「じんらくき」と読みますが、URLはhatarakuki。秦氏とか神話のことなどを少々。"
   avatar = "/ovq.jpg"
   images = ["/ovq.jpg"]
   customCSS = ["/css/ovq_custom.css"]
