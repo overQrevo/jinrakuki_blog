@@ -164,6 +164,11 @@ header.post-header h1 {
     font-size: 1.6rem;
     font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
 }
+media screen and (max-width: 600px) {
+    .post-content h2 {
+        font-size: 1.3rem;
+    }
+}
 #ovq_bgimage {
     z-index: 1;
     position: absolute;
@@ -217,12 +222,12 @@ img {
 
 table {
     margin: 1em;
-    background: #A12A3D;
+    background: #bbb;
     border-collapse: collapse;
     border: 1px solid #aaa;
 }
 th {
-    background: #51151F;
+    background: #888;
     border: 1px solid #aaa;
     padding: 0.3rem;
 }
@@ -248,4 +253,8 @@ blockquote:before {
 	left: 0.5rem;
 	line-height: 1;
 	position: absolute;
+}
+
+.page-item.active .page-link {
+    color: #fff;
 }
