@@ -19,7 +19,7 @@ body {
 header.app-header {
     position: relative;
     border-right: 8px solid #333;
-    background: linear-gradient(0deg, #fff, #7a5a5b);
+    background: url('uminami.png'), linear-gradient(0deg, #fff, #7a5a5b);
 }
 header.app-header h1 {
     font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
@@ -245,12 +245,13 @@ blockquote {
 	position: relative;
 }
 blockquote:before {
-	color: #030303;
+    color: #666;
+    opacity: 0.3;
 	content: "\201C";
 	font-family: Georgia, serif;
-    font-size: 84px;
-    top: 0.5rem;
-	left: 0.5rem;
+    font-size: 160px;
+    top: 0.6rem;
+	left: 0.8rem;
 	line-height: 1;
 	position: absolute;
 }
