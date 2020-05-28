@@ -20,15 +20,24 @@ googleAnalytics = "UA-147219793-1"
     name = "twitter"
     url = "https://twitter.com/overQrevo"
 
+# Dark theme
+  # [params.style]
+  #   darkestColor = "#51151F"
+  #   darkColor = "#212121"
+  #   lightColor = "#f5e3e0"
+  #   lightestColor = "#f5f5f5"
+  #   primaryColor = "#fff"
+
+# Light theme
   [params.style]
-    darkestColor = "#51151F"
-    darkColor = "#212121"
-    lightColor = "#f5e3e0"
-    lightestColor = "#f5f5f5"
-    primaryColor = "#fff"
-    
+    darkestColor = "#fff"
+    darkColor = "#eee"
+    lightColor = "#111"
+    lightestColor = "#222"
+    primaryColor = "#222"
+
 # Brown theme
-  #[params.style]
+  # [params.style]
   #  darkestColor = "#463625"
   #  darkColor = "#2a3738"
   #  primaryColor = "#eeee6a"

@@ -1,7 +1,7 @@
 body {
     font-size: medium;
-    font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic', sans-serif;
-    color: #111;
+    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+    color: #fff;
     -webkit-font-smoothing: antialiased;
     letter-spacing: calc(1px - .04em);
     font-feature-settings: "palt";
@@ -18,22 +18,14 @@ body {
 }
 header.app-header {
     position: relative;
-    border-right: 8px solid #333;
-    background: linear-gradient(0deg, #fff, #7a5a5b);
-}
-header.app-header h1 {
-    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
-    font-weight: 700;
-    font-size: 2.5rem;
-    letter-spacing: 0.1em;
+    border-right: 8px solid #fff;
+    background: linear-gradient(0deg, #a12a3d, #51151f);
 }
 main.app-container {
 	position: relative;
 	margin-left: 0;
     flex: 1;
-    /*
     background-image: url(karakusa.png);
-    */
 }
 @media screen and (max-width: 600px) {
 	#ovq_big_container {
@@ -49,9 +41,6 @@ main.app-container {
     }
 }
 
-.app-header-avatar {
-    border: solid 1px #333;
-}
 @media screen and (max-width: 600px) {
 .app-header-avatar {
     position: relative;
@@ -66,7 +55,7 @@ main.app-container {
     display: inline;
 }
 #icon-envelop {
-    fill: #030303;
+    fill: #fff;
 }
 .ovq_twitter {
     margin: 1em auto;
@@ -76,10 +65,7 @@ main.app-container {
 }
 
 .app-container article h1 {
-    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
-    font-size: 2.5rem;
-    font-weight: bolder;
-    letter-spacing: 0.1em;
+    font-size: 2rem;
     text-align: center;
     padding-bottom: 25px;
     border-bottom: 1px solid #fff;
@@ -95,13 +81,11 @@ li.posts-list-item {
     text-align: left;
 }
 .ovq_categories a {
-	color: #333;
+	color: #aaa;
 	font-size: 0.9rem;
 }
 .posts-list-item-title {
     font-size: 1.6rem;
-    font-weight: bolder;
-    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
 }
 .ovq_summary {
     margin-left: 2rem;
@@ -109,22 +93,22 @@ li.posts-list-item {
 }
 .ovq_tags {
 	text-align: right;
-	color: #333;
+	color: #aaa;
 	font-size: 0.8rem;
 }
 .ovq_tags a {
-	color: #333;
+	color: #aaa;
 }
 .posts-list-item-description {
 	text-align: right;
-	color: #333;
+	color: #aaa
 }
 .ovq_thumbnail img {
     float: left;
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 2px solid #333;
+    border: 7px solid #fff;
 }
 
 header {
@@ -139,18 +123,17 @@ header.post-header {
     width: 100%;
     height: 250px;
     padding: 5px 50px;
-    color: #030303;
+    color: #fff;
     text-shadow: 0 0 8px #000;
 }
 header.post-header h1 {
-    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
     text-align: left;
     padding: 0;
     border: none;
     position: relative;
     z-index: 2;
-    color: #030303;
-    font-size: 2.2rem;
+    color: #fff;
+    font-size: 2rem;
     font-weight: 700;
     margin: 0 0 0 -0.5rem;
     text-shadow: 0 0 8px #000;
@@ -159,10 +142,6 @@ header.post-header h1 {
     header.post-header h1 {
         font-size: 1.5rem;
     }
-}
-.post-content h2 {
-    font-size: 1.6rem;
-    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
 }
 #ovq_bgimage {
     z-index: 1;
@@ -233,14 +212,14 @@ td {
 }
 
 blockquote {
-    color: #030303;
-    background: #ccc;
+    color: #dadada;
+    background: #1a1a1a;
 	margin: 0 0 1.5rem;
 	padding: 1.5rem;
 	position: relative;
 }
 blockquote:before {
-	color: #030303;
+	color: #efefef;
 	content: "\201C";
 	font-family: Georgia, serif;
     font-size: 84px;

@@ -28,3 +28,9 @@
 [submodule "themes/hugo-serif-theme"]
 	path = themes/hugo-serif-theme
 	url = https://github.com/jugglerx/hugo-serif-theme.git
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/harbor"]
+	path = themes/harbor
+	url = https://github.com/matsuyoshi30/harbor.git
