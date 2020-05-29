@@ -7,7 +7,7 @@ description: "葛城山麓の奈良県御所市蛇穴（さらき）。野口神
 images: 
   - "posts/something-sealed-in-a-well/background.png"
 categories: 
-  - "神話・伝説"
+  - "神話と伝説"
 tags: 
   - "蛇"
   - "秦氏"

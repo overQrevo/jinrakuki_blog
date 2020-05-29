@@ -28,6 +28,12 @@ header.app-header h1 {
     letter-spacing: 0.1em;
     margin-bottom: -1rem;
 }
+header>.blog_description {
+    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+}
+header>.blog_author {
+    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+}
 main.app-container {
 	position: relative;
 	margin-left: 0;
@@ -76,14 +82,18 @@ main.app-container {
     .ovq_twitter { display: none; }
 }
 
-.app-container article h1 {
+.app-container article h1#blog_title {
+    writing-mode: vertical-rl;
     font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: bolder;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.2em;
     text-align: center;
-    padding-bottom: 25px;
-    border-bottom: 1px solid #fff;
+    border: solid 1px #333;
+    background: url('uminami.png'), radial-gradient(circle, rgba(120, 91, 93, 0.8), rgba(202, 191, 192, 0.2));
+    padding: 10px 43% 5px;
+    margin: 0 5%;
+    display: inline-flex;
 }
 @media screen and (max-width: 600px) {
     .list-page-article h1 { display: none; }
@@ -143,9 +153,10 @@ header.post-header {
     color: #030303;
     text-shadow: 0 0 3px #ccc;
 }
-header.post-header h1 {
+header.post-header h1.post-title {
     font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
     text-align: left;
+    letter-spacing: 0.1em;
     padding: 0;
     border: none;
     position: relative;

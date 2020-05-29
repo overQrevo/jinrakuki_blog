@@ -7,7 +7,7 @@ description: "河童駒引と呼ばれる、河童が馬を水中へ引き込も
 images:
   - "posts/kappa_pulling_a_horse_and_the_irrigation/background.png"
 categories:
-  - "神話・伝説"
+  - "神話と伝説"
 tags:
   - "河童"
 ---

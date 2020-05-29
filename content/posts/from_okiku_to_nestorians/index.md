@@ -7,7 +7,7 @@ description: "有名な姫路城のお菊井戸。実は播州が発祥の地で
 images:
   - "posts/from_okiku_to_nestorians/background.png" 
 categories:
-  - "神話・伝説"
+  - "神話と伝説"
 tags:
   - "渡来人"
   - "お菊井戸"

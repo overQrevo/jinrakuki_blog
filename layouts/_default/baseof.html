@@ -22,8 +22,8 @@
       <header class="app-header">
         <a href="{{ .Site.BaseURL }}"><img class="app-header-avatar" src="{{ .Site.Params.avatar | default "avatar.jpg" | relURL }}" alt="{{ .Site.Params.author | default "John Doe" }}" /></a>
         <h1>{{ .Site.Title }}</h1>
-        <p>{{ .Site.Params.description | default "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium." }}</p>
-        <p>Author: {{ .Site.Params.author | default "John Doe" }}</p>
+        <p class="blog_description">{{ .Site.Params.description | default "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium." }}</p>
+        <p class="blog_author">書いてる人: {{ .Site.Params.author | default "John Doe" }}</p>
         <div class="app-header-social">
           {{ range .Site.Params.social }}
             <a target="_blank" href="{{ .url }}">{{ partial "icon.html" (dict "ctx" $ "name" .name ) }}</a>
