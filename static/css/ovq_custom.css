@@ -97,6 +97,7 @@ main.app-container {
 }
 @media screen and (max-width: 600px) {
     .list-page-article h1 { display: none; }
+    .app-container article h1#blog_title { display: none; }
 }
 li.posts-list-item {
     padding: 2rem 0;
