@@ -174,17 +174,17 @@ header.post-header h1.post-title {
     text-shadow: 0 0 3px #ccc;
 }
 @media screen and (max-width: 600px) {
-    header.post-header h1 {
-        font-size: 1.5rem;
+    header.post-header h1.post-title {
+        font-size: 1.35rem;
     }
 }
 .post-content h2 {
     font-size: 1.6rem;
     font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
 }
-media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .post-content h2 {
-        font-size: 1.3rem;
+        font-size: 1.25rem;
     }
 }
 #ovq_bgimage {
