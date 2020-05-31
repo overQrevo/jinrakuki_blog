@@ -15,7 +15,7 @@ images:
   - "posts/yamato-no-jormungandr/background.jpg"
 ---
 
-<img id="ovq_bgimage" src="background.png">
+<img id="ovq_bgimage" src="background.jpg">
 
 ## 藁の蛇
 
