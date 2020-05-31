@@ -5,7 +5,7 @@ draft: false
 isCJKLanguage: true
 description: "有名な姫路城のお菊井戸。実は播州が発祥の地ではない。松平氏が姫路藩主として転封されてきた時、家来に小幡修理がいた。小幡氏は他地域でもお菊井戸伝説を振りまいている。上州の氏族で、地元にも当然お菊井戸伝承がある。しかし、それにとどまらない。多胡碑、羊大夫、羽の生えた足を持つ飛脚、そしてネストリウス派へと導かれていく。"
 images:
-  - "posts/from_okiku_to_nestorians/background.png" 
+  - "posts/from_okiku_to_nestorians/background.jpg" 
 categories:
   - "神話と伝説"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "ネストリウス派"
 ---
 
-<img id="ovq_bgimage" src="background.png">
+<img id="ovq_bgimage" src="background.jpg">
 
 有名な姫路城のお菊井戸、播州皿屋敷。
 

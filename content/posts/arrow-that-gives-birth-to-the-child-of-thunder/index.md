@@ -12,10 +12,10 @@ tags:
   - "京都"
   - "能"
 images: 
-  - "posts/arrow-that-gives-birth-to-the-child-of-thunder/background.png"
+  - "posts/arrow-that-gives-birth-to-the-child-of-thunder/background.jpg"
 ---
 
-<img id="ovq_bgimage" src="background.png">
+<img id="ovq_bgimage" src="background.jpg">
 
 以前、奈良御所市蛇穴の野口神社の祭りと、京都烏丸の井戸のあいだに、秦神話つながりがあるという話を書いた（→<a href="https://hatarakuki.tokyo/posts/something-sealed-in-a-well/">京の井戸に封印されしもの−秦氏の痕跡を神話論的に探る</a>）。この件についてさらに新しい発見があったので書いてみたい。
 
@@ -31,7 +31,7 @@ images:
 賀茂と松尾の神社の縁起はともに、「本朝月令」という書の中に現れる。平安中期、年中行事について解説した書物で、著者は惟宗公方。  
 惟宗氏は秦氏である。公方の父・直本のとき、惟宗に改姓した。代々、明法家（律令の学者）の権威で学識高く、矢に触れて雷神の子を生む秦神話のバリエーションは馴染みのものだっただろう。
 
-<a href="Screenshot-from-2017-03-12-19-47-01-768x478.png"￼><img src="Screenshot-from-2017-03-12-19-47-01-768x478.png"></a>
+<a href="Screenshot-from-2017-03-12-19-47-01-768x478.jpg"￼><img src="Screenshot-from-2017-03-12-19-47-01-768x478.jpg"></a>
 
 新撰姓氏録には、秦氏は最初「大和朝津間腋上」に土地を賜ったとある。これは野口神社のあるあたり。野口神社の秦氏は河内で茨田堤を建設した人々と伝わるが、もともとここが秦の本拠地で、その因縁により一部が戻ってきたのだろう。  
 そしてこの一帯は葛城山の麓、葛城氏のテリトリーである。特に掖上のあるこの地は、葛城氏の一派である賀茂氏が本来いた場所。賀茂役君、つまり賀茂氏である役行者・小角の出生地もここである（日本霊異記）。  
@@ -65,6 +65,3 @@ images:
 > いかに早乙女賀茂の神山に花の咲いた見るか。  
 >げにきつと見たれば黄金の花も咲いたり。  
 > おめでたや、めでたや。
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ1ODY0MzhdfQ==
--->

@@ -5,7 +5,7 @@ draft: false
 isCJKLanguage: true
 description: "葛城山麓の奈良県御所市蛇穴（さらき）。野口神社には井戸の上にとぐろを巻く蛇の祭がある。この古い伝統は、京都（山城）にも持ち込まれたはずで、烏丸通の井戸にまつわる伝承群はその痕跡ではないか。"
 images: 
-  - "posts/something-sealed-in-a-well/background.png"
+  - "posts/something-sealed-in-a-well/background.jpg"
 categories: 
   - "神話と伝説"
 tags: 
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-<img id="ovq_bgimage" src="background.png">
+<img id="ovq_bgimage" src="background.jpg">
 
 ## 奈良・野口神社の秦神話
 

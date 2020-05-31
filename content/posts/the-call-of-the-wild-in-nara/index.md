@@ -10,10 +10,10 @@ tags:
   - "蛇"
   - "奈良"
 images: 
-   - "posts/the-call-of-the-wild-in-nara/background.png"
+   - "posts/the-call-of-the-wild-in-nara/background.jpg"
 ---
 
-<img id="ovq_bgimage" src="background.png">
+<img id="ovq_bgimage" src="background.jpg">
 
 ## 稲渕の男綱・女綱
 
@@ -30,7 +30,7 @@ images:
 で、京都での用事を済ませ、奈良に向かった私は、桜井駅でレンタサイクルして、まず稲淵を目指すことに。  
 距離は10キロあまり。自転車には乗り慣れているので、レンタサイクルのママチャリとはいえ、まあ大した距離ではない。はずであった。
 
-<a href="inabuchi.png"><img src="inabuchi.png"></a>
+<a href="inabuchi.jpg"><img src="inabuchi.jpg"></a>
 
 山岳。変速のないママチャリでこの坂を登るのは、かなりの荒行であった。  
 しかもだ、上からはきらびやかなロードバイクに乗った一群が「下り、気持ちいー」などと極楽感いっぱいのたわごとをのたまいながら風を切って駆け下りていく。ジオス、キャノンデール、ビアンキ、フェルト。  
@@ -77,7 +77,7 @@ images:
 さて、補巌寺。このあたりは川がそばに流れ、奈良でよく見られる環壕集落の名残りをとどめる、落ち着いたとても居心地のいい場所だった。かなり豊かであった時代が、おそらく複数回あっただろう気配。  
 観世親子に関わるこの一帯は、最初の屯倉である「倭屯倉」のあった場所でもある（垂仁、景行天皇の頃と記紀はしるす）。この大田から稲穂をとって、ヤマト王権初期の大嘗祭新嘗祭はおこなわれていたかもしれない。
 
-[![味間と江包・大西](ajima_ettumi_oonishi.png  "味間と江包・大西")](ajima_ettsumi_oonishi.png)
+[![味間と江包・大西](ajima_ettumi_oonishi.jpg  "味間と江包・大西")](ajima_ettsumi_oonishi.jpg)
 
 
 
@@ -123,7 +123,7 @@ images:
 さらに。  
 前の旅で行った、秦氏の初めの入植地として新撰姓氏録に記される掖上の地。秦はもとは葛城氏・鴨氏の部民であったかもしれない。この掖上から葛城山麓の地域に、蛇穴と書いてサラギと読む場所がある。このあたりは、役小角の故郷でもある（吉祥草寺が生誕地）。  
 
-<a href="saragi_wakigami.png"><img src="saragi_wakigami.png"></a>
+<a href="saragi_wakigami.jpg"><img src="saragi_wakigami.jpg"></a>
 
 蛇穴で行われる蛇曳き汁掛け祭は、藁で作った長い蛇をめぐり歩かせ、井戸の上にトグロを巻かせて稔りを祈願するもの。つまり、御綱祭のバリエーションのひとつである。
 

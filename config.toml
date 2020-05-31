@@ -59,3 +59,8 @@ googleAnalytics = "UA-147219793-1"
   #  primaryColor = "#ffffff"
   #  lightColor = "#a2a2a2"
   #  lightestColor = "#d3d3d3"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

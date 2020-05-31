@@ -10,10 +10,10 @@ tags:
   - "秦氏"
   - "蛇"
 images: 
-  - "posts/snake-vs-crab-hata-mythology-in-buddhism-narrative/background.png"
+  - "posts/snake-vs-crab-hata-mythology-in-buddhism-narrative/background.jpg"
 ---
 
-<img id="ovq_bgimage" src="background.png">
+<img id="ovq_bgimage" src="background.jpg">
 
 ## 蟹の恩返し
 
