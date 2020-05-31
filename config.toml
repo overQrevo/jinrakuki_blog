@@ -64,3 +64,5 @@ googleAnalytics = "UA-147219793-1"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.blackFrieday]
+    hrefTargetBlank = true

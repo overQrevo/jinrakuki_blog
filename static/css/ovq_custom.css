@@ -24,15 +24,15 @@ header.app-header {
 header.app-header h1 {
     font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
     font-weight: 700;
-    font-size: 2.5rem;
+    font-size: 3rem;
     letter-spacing: 0.1em;
-    margin-bottom: -1rem;
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.8);
 }
 header>.blog_description {
-    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+    font-size: 1.05rem;
 }
 header>.blog_author {
-    font-family: Georgia,游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+    margin-bottom: 25px;
 }
 main.app-container {
 	position: relative;
@@ -94,6 +94,7 @@ main.app-container {
     padding: 10px 45% 5px;
     margin: 0 auto;
     display: inline-flex;
+    text-shadow: 0 0 10px rgba(255,255,255,0.6);
 }
 @media screen and (max-width: 600px) {
     .list-page-article h1 { display: none; }
@@ -168,7 +169,7 @@ header.post-header h1.post-title {
     position: relative;
     z-index: 2;
     color: #030303;
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     font-weight: 700;
     margin: 0 0 0 -0.5rem;
     text-shadow: 0 0 3px #ccc;
