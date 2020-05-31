@@ -45,8 +45,8 @@ tags:
 この羊太夫、けっして単なる伝説上の人物ではない。多胡碑という８世紀の石碑にその名がちゃんと刻まれている。
 ■[多胡碑 – Wikipedia](https://ja.wikipedia.org/wiki/多胡碑)
 
-<div class="ovq_flex_left"><a href="Monument_of_Tago_Tagohi-225x300.jpg"><img src="Monument_of_Tago_Tagohi-225x300.jpg"></a></div>
-<div class="ovq_flex_right"><a href="tagohi.jpg"><img src="tagohi.jpg"></a></div>
+<div class="ovq_flex_left"><img src="Monument_of_Tago_Tagohi-225x300.jpg"></div>
+<div class="ovq_flex_right"><img src="tagohi.jpg"></div>
 この地は銅の産地で、渡来系の人々が採掘に関わってきた。
 平城京遷都と合わせるように、良質な和銅が見つかり、年号を和銅と改め、和同開珎が鋳造されたのは、日本史の教科書にも出てくる。その際、多胡郡を新たに作り、その地を羊に賜われた。その記念が多胡碑である。小幡氏はその末裔。
 
