@@ -18,7 +18,7 @@ body {
 }
 header.app-header {
     position: relative;
-    border-right: 8px solid #333;
+    /* border-right: 8px solid #333; */
     background: url('uminami.png'), linear-gradient(0deg, #fff, #7a5a5b);
 }
 header.app-header h1 {
@@ -89,8 +89,8 @@ main.app-container {
     font-weight: bolder;
     letter-spacing: 0.2em;
     text-align: center;
-    border: solid 1px #333;
-    background: url('uminami.png'), radial-gradient(circle, rgba(120, 91, 93, 0.8), rgba(202, 191, 192, 0.2));
+    /* border: solid 1px #333; */
+    background: url('uminami.png'), radial-gradient(circle, rgba(120, 91, 93, 0.8) 100px, rgba(202, 191, 192, 0) 700px);
     padding: 10px 45% 5px;
     margin: 0 auto;
     display: inline-flex;
@@ -99,6 +99,7 @@ main.app-container {
 @media screen and (max-width: 600px) {
     .list-page-article h1 { display: none; }
     .app-container article h1#blog_title { 
+        background: url('uminami.png'), radial-gradient(circle, rgba(120, 91, 93, 0.8) 20px, rgba(202, 191, 192, 0) 200px);
         letter-spacing: 0;
         font-size: 1rem;
         padding: 0 auto;
