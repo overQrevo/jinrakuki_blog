@@ -284,18 +284,18 @@ blockquote:before {
 #ovq_GTBtn {
     display: none; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
-    bottom: 20px; /* Place the button at the bottom of the page */
-    right: 30px; /* Place the button 30px from the right */
+    bottom: 0.7rem; /* Place the button at the bottom of the page */
+    right: 0.7rem; /* Place the button 30px from the right */
     z-index: 99; /* Make sure it does not overlap */
     border: none; /* Remove borders */
     outline: none; /* Remove outline */
     background-color: #666; /* Set a background color */
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 15px; /* Some padding */
+    padding: 0.7rem; /* Some padding */
     border-radius: 10px; /* Rounded corners */
-    font-size: 18px; /* Increase font size */
-    opacity: 0.2;
+    font-size: 0.9rem; /* Increase font size */
+    opacity: 0.15;
   }
   
   #ovq_GTBtn:hover {
