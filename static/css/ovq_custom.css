@@ -292,7 +292,7 @@ blockquote:before {
     background-color: #666; /* Set a background color */
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 0.7rem; /* Some padding */
+    padding: 0.6rem; /* Some padding */
     border-radius: 10px; /* Rounded corners */
     font-size: 0.9rem; /* Increase font size */
     opacity: 0.15;
